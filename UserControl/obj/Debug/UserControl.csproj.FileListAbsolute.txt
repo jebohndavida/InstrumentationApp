@@ -1,0 +1,10 @@
+C:\Users\Jessica\Documents\Visual Studio 2013\Projects\UserControl\UserControl\bin\Debug\UserControl.exe.config
+C:\Users\Jessica\Documents\Visual Studio 2013\Projects\UserControl\UserControl\bin\Debug\UserControl.exe
+C:\Users\Jessica\Documents\Visual Studio 2013\Projects\UserControl\UserControl\bin\Debug\UserControl.pdb
+C:\Users\Jessica\Documents\Visual Studio 2013\Projects\UserControl\UserControl\bin\Debug\OpenGL.dll
+C:\Users\Jessica\Documents\Visual Studio 2013\Projects\UserControl\UserControl\obj\Debug\UserControl.ViewForm.resources
+C:\Users\Jessica\Documents\Visual Studio 2013\Projects\UserControl\UserControl\obj\Debug\UserControl.Properties.Resources.resources
+C:\Users\Jessica\Documents\Visual Studio 2013\Projects\UserControl\UserControl\obj\Debug\UserControl.csproj.GenerateResource.Cache
+C:\Users\Jessica\Documents\Visual Studio 2013\Projects\UserControl\UserControl\obj\Debug\UserControl.exe
+C:\Users\Jessica\Documents\Visual Studio 2013\Projects\UserControl\UserControl\obj\Debug\UserControl.pdb
+C:\Users\Jessica\Documents\Visual Studio 2013\Projects\UserControl\UserControl\obj\Debug\UserControl.csprojResolveAssemblyReference.cache
